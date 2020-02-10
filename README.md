@@ -8,3 +8,4 @@
 04. breath first search
 05. Greedy
 06. NP problem
+07. dynamic programming
