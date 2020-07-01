@@ -6,3 +6,4 @@
 02. Selection Sort
 03. quick Sort
 04. breath first search
+05. Greedy
